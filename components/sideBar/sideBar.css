@@ -1,0 +1,55 @@
+.sidebar{
+    flex: 2;
+    height: fit-content;
+    background-color: #e9e8e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+}
+.aboutMe{
+    border: none;
+    outline: none;
+}
+.dAbtSkil{
+    border: none;
+    outline: none;
+    position: relative;
+}
+.abtSkil{
+    display: flex;
+}
+.saveDow{
+    background-color: grey;
+    border: 1px solid grey;
+    color: #e9e8e8;
+    border-radius: 50%;
+    position: relative;
+    cursor: pointer;
+    right: 20px;
+    top: 4px;
+}
+
+.userEdit{
+    color: gray;
+    position: relative;
+    right: 12px;
+    padding: 2px;
+    border-radius: 50%;
+    border: 1px solid gray;
+    cursor: pointer;
+
+}
+.abtSubmit{
+    color: white;
+    width: 160px;
+    background: rgb(66, 192, 150);
+    border-radius: 5px;
+    cursor: pointer;
+}
+button{
+    border: none;
+}
+

@@ -1,0 +1,17 @@
+.realSideBar{
+    flex: 2;
+    height: fit-content;
+    background-color: #e9e8e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+}
+
+.faEdit{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+} 
